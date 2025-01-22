@@ -1,0 +1,17 @@
+^/tmp/security\..*$
+^/var/spool/postfix/active/\w{10}$
+^/tmp/periodic\.\w{10}$
+^/tmp/periodic\.anticongestion\.\w{10}$
+^/tmp/mail\.\w{12}$
+^/tmp/tmp\.\w{6}$
+^/tmp/vuln\.xml\.bz2\.\w{8}$
+^/home/user/#pico\d+#$
+^/var/cache/salt/minion/proc/\d+$
+^/var/spool/mqueue/\./\w{16}$
+^/tmp/local\.\w{6}$
+^/var/spool/clientmqueue/\./\w{16}$
+^/etc/periodic/daily/\d+\.queuerun$
+^/tmp/\.\w+\.\w+$
+^/tmp/periodic\.\w+$
+^/proc/\d+$
+^/etc/periodic/security/\d+\.\w+denied$

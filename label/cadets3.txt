@@ -1,0 +1,86 @@
+ATTACK4/6
+81.49.200.166
+78.205.235.65
+200.36.109.214
+61.167.39.128
+139.123.0.113
+
+/tmp/vUgefal
+/etc/passwd
+/var/log/devc
+
+59764	nginx
+76833	vUgefal
+
+ATTACK4/11
+155.162.39.48
+25.159.96.207
+76.56.184.25
+
+/etc/group
+/etc/passwd
+/tmp/grain
+
+893	nginx
+
+ATTACK4/12
+25.159.96.207
+155.162.39.48
+76.56.184.25
+192.113.144.28
+53.158.101.118
+128.55.12.67
+128.55.12.141
+128.55.12.110
+128.55.12.10
+128.55.12.1
+128.55.12.55
+
+/tmp/tmux-1002
+/tmp/minions
+/tmp/font
+/tmp/XIM
+/var/log/netlog
+/var/log/sendmail
+/tmp/main
+/tmp/test
+
+892	nginx
+20107	tmux-1002
+20026	tmux-1002
+20227	minions
+20298	minions
+804	sshd
+20327	sshd
+20367	XIM
+20408	XIM
+20490	sendmail
+20498	sendmail
+20521	main
+20623	test
+20586	test
+20692	test
+20708	test
+20709	uname
+20738	uname
+
+ATTACK4/13
+53.158.101.118
+25.159.96.207
+76.56.184.25
+53.158.101.118
+155.162.39.48
+198.115.236.119
+198.115.236.119
+
+/tmp/pEja72mA
+eWq10bVcx
+/tmp/injectLog.txt
+memhelp.so
+eraseme
+/tmp/done.so
+
+20408	XIM
+36112	pEja72mA
+893	nginx
+20691	sshd

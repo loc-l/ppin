@@ -1,0 +1,3 @@
+892	nginx,9471	procstat,893	nginx,891	nginx,
+/etc/passwd,/tmp/grain,/var/log/nginx-error.log,/usr/lib/libprocstat.so.1,/var/log/nginx-access.log,/usr/bin/procstat,
+155.162.39.48,128.55.12.122,76.56.184.25,25.159.96.207,

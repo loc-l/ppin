@@ -1,0 +1,30 @@
+{
+    "cadets3":{
+        "name" : "cadets3",
+        "data_path" : "data/cadets3/",
+        "event_config_path" : "config/darpa.txt",
+        "detect_days" : [6,7,8,9,10,11,12,13],
+        "attack_days" : [6,11,12,13],
+        "train_days" : [2,3,4,5],
+        "train_data" : ["data/cadets3/benign.json"],
+        "model" : "trained_model/cadets3.pt",
+        "epoch" : 35,
+        "infeat" : 128,
+        "interval":900000000000,
+        "beta":0.3
+    },
+    "theia3":{
+        "name": "theia3",
+        "data_path" : "data/theia3/",
+        "event_config_path" : "config/darpa.txt",
+        "detect_days" : [10,11,12],
+        "attack_days" : [10,11,12],
+        "train_days" : [3,4,5,9],
+        "train_data" : ["data/theia3/benign.json.345", "data/theia3/benign.json.9"],
+        "model" : "trained_model/theia3.pt",
+        "epoch" : 45,
+        "infeat" : 256,
+        "interval":900000000000,
+        "beta":0.7
+    }
+}

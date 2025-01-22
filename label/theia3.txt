@@ -1,0 +1,155 @@
+ATTACK4/10
+61.130.69.232
+161.116.88.72
+146.153.68.151
+141.43.176.203
+
+/home/admin/profile
+/home/admin/clean
+/var/log/xdev
+
+6222	firefox
+6223	firefox
+6227	firefox
+6228	firefox
+6229	firefox
+6230	firefox
+6232	firefox
+6244	firefox
+6245	firefox
+6246	firefox
+6247	firefox
+6248	clean
+6249	clean
+6251	firefox
+6253	clean (deleted)
+6264	clean (deleted)
+6265	clean (deleted)
+6267	clean (deleted)
+6269	clean (deleted)
+6270	clean (deleted)
+6271	clean (deleted)
+6272	clean (deleted)
+6273	clean (deleted)
+6275	clean (deleted)
+6279	clean (deleted)
+6349	clean (deleted)
+6350	clean (deleted)
+6352	clean (deleted)
+6353	clean (deleted)
+6357	clean (deleted)
+6358	clean (deleted)
+8130	firefox
+8131	firefox
+8171	firefox
+8174	firefox
+8175	firefox
+8183	firefox
+8186	firefox
+8187	profile
+8188	profile
+8217	firefox
+8218	profile (deleted)
+8219	profile (deleted)
+8230	profile (deleted)
+8233	profile (deleted)
+8754	profile (deleted)
+6150	fluxbox
+8063	fluxbox
+5771	fluxbox
+
+ATTACK4/11
+7.149.198.40
+161.116.88.72
+
+
+8188	profile
+29293	profile (deleted)
+29294	profile (deleted)
+29372	profile (deleted)
+29373	profile (deleted)
+29374	profile (deleted)
+29375	profile (deleted)
+29376	profile (deleted)
+29377	profile (deleted)
+29378	profile (deleted)
+29536	profile (deleted)
+29537	profile (deleted)
+
+ATTACK4/12
+161.116.88.72
+141.43.176.203
+146.153.68.151
+149.52.198.23
+128.55.12.110
+
+/var/log/xdev
+/var/log/mail
+/var/log/wdev
+/tmp/memtrace.so
+
+13907	gtcache
+13809	gtcache
+13810	gtcache
+13811	gtcache
+13909	gtcache
+13910	gtcache
+13747	firefox
+13825	gtcache
+13827	gtcache
+13828	gtcache
+13751	gtcache
+13756	gtcache
+13757	gtcache
+13761	gtcache
+13762	gtcache
+14223	gtcache
+14224	gtcache
+13766	gtcache
+13767	gtcache
+13768	gtcache
+13769	gtcache
+13770	gtcache
+14376	mail
+14377	mail
+14275	gtcache
+14276	gtcache
+13877	gtcache
+14199	gtcache
+14200	gtcache
+14282	gtcache
+14283	gtcache
+14285	gtcache
+13682	firefox
+13626	firefox
+14286	gtcache
+13887	gtcache
+13888	gtcache
+14239	gtcache
+14241	gtcache
+14413	mail
+14420	profile (deleted)
+14421	profile (deleted)
+13831	profile (deleted)
+13832	profile (deleted)
+13834	profile (deleted)
+14365	profile (deleted)
+13764	profile (deleted)
+14370	profile (deleted)
+14371	profile (deleted)
+14375	profile (deleted)
+8188	profile
+2710	profile (deleted)
+13681	profile (deleted)
+2711	profile (deleted)
+14288	profile (deleted)
+14289	profile (deleted)
+14290	profile (deleted)
+13803	profile (deleted)
+13804	profile (deleted)
+13805	profile (deleted)
+13806	profile (deleted)
+2712	profile (deleted)
+13749	dash
+13748	pass_mgr
+13750	dash
