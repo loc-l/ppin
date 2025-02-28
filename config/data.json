@@ -25,6 +25,6 @@
         "epoch" : 45,
         "infeat" : 256,
         "interval":900000000000,
-        "beta":0.7
+        "beta":0.3
     }
 }

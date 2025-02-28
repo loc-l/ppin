@@ -382,9 +382,9 @@ class Storage:
                                 gnid_score.append((pattern.hit+1)/pattern.net_element_set[dst])
                     
                     if dt==NODE_TYPE.FILE:
-                        for dt in self.edge_cache[gnid][dt]:
+                        for dst in self.edge_cache[gnid][dt]:
                             for key in pattern.file_element_set:
-                                if dt in pattern.file_element_set[key]:
+                                if dst in pattern.file_element_set[key]:
                                     element_hit = 0
                                     for token2gnid in pattern.file_element_set[key]:
                                         element_hit+=pattern.file_hit_table[token2gnid]
