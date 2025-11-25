@@ -1,0 +1,177 @@
+ATTACK/0051
+53.192.68.50
+142.20.56.52
+142.20.61.130
+142.20.61.131
+
+/device/harddiskvolume1/windows/temp/myhbyxtpviwx.vbs
+/device/harddiskvolume1/users/dcoombes/downloads/update.exe
+/device/harddiskvolume1/users/dcoombes/downloads/update.exe:zone.identifier
+/device/harddiskvolume1/users/dcoombes/appdata/local/temp/ckfgw.exe
+
+2936	biGuWCmNsuCIG.exe
+576	cmd.exe
+460	wininit.exe
+568	lsass.exe
+4448	cmd.exe
+3136	biGuWCmNsuCIG.exe
+268	biGuWCmNsuCIG.exe
+2712	cKfGW.exe
+3260	biGuWCmNsuCIG.exe
+4344	biGuWCmNsuCIG.exe
+3700	biGuWCmNsuCIG.exe
+3100	wmiprvse.exe
+5448	biGuWCmNsuCIG.exe
+3968	update.exe
+3256	cmd.exe
+5604	biGuWCmNsuCIG.exe
+5164	cscript.exe
+5448	cmd.exe
+256	net.exe
+1872	biGuWCmNsuCIG.exe
+6056	biGuWCmNsuCIG.exe
+3212	biGuWCmNsuCIG.exe
+3956	biguwcmnsucig.exe
+3356	SearchIndexer.exe
+2280	biGuWCmNsuCIG.exe
+3788	biGuWCmNsuCIG.exe
+1684	biGuWCmNsuCIG.exe
+3136	biguwcmnsucig.exe
+4256	biGuWCmNsuCIG.exe
+180	biguwcmnsucig.exe
+5404	biGuWCmNsuCIG.exe
+5628	cmd.exe
+1332	wmiprvse.exe
+2140	biguwcmnsucig.exe
+5084	biguwcmnsucig.exe
+5200	cmd.exe
+2000	biGuWCmNsuCIG.exe
+3984	biGuWCmNsuCIG.exe
+5984	biGuWCmNsuCIG.exe
+3700	biguwcmnsucig.exe
+1136	biGuWCmNsuCIG.exe
+180	biGuWCmNsuCIG.exe
+4952	biguwcmnsucig.exe
+5084	biGuWCmNsuCIG.exe
+4344	cmd.exe
+328	cmd.exe
+3024	cmd.exe
+4632	biguwcmnsucig.exe
+560	services.exe
+2364	cmd.exe
+2780	cmd.exe
+3956	biGuWCmNsuCIG.exe
+4504	update.exe
+5192	net1.exe
+2428	wmiprvse.exe
+2140	biGuWCmNsuCIG.exe
+6056	ngen.exe
+3756	Explorer.EXE
+3288	notepad++.exe
+3984	biguwcmnsucig.exe
+4952	biGuWCmNsuCIG.exe
+3788	cmd.exe
+2348	biguwcmnsucig.exe
+2000	cmd.exe
+5984	biguwcmnsucig.exe
+576	lsass.exe
+656	biguwcmnsucig.exe
+476	wininit.exe
+656	biGuWCmNsuCIG.exe
+4660	cmd.exe
+2348	biGuWCmNsuCIG.exe
+3332	biGuWCmNsuCIG.exe
+3868	net.exe
+2364	biGuWCmNsuCIG.exe
+2936	cmd.exe
+3304	biGuWCmNsuCIG.exe
+3212	cmd.exe
+2244	cmd.exe
+2280	biguwcmnsucig.exe
+6076	biGuWCmNsuCIG.exe
+4632	biGuWCmNsuCIG.exe
+5664	firefox.exe
+4	System
+
+ATTACK/0501
+142.20.57.246
+202.6.172.98
+132.197.158.98
+
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll.docx
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx:zone.identifier:$d
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx:zone.identifier
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll.docx:zone.identifier
+/device/harddiskvolume1/users/sysadmin/downloads/filetransfer1000.exe
+/device/harddiskvolume1/users/sysadmin/downloads/filetransfer1000.exe:zone.identifier
+/device/harddiskvolume1/windows/system32/plink.exe
+/device/harddiskvolume1/users/sysadmin/downloads/export.zip
+
+5244	WINWORD.EXE
+2340	chrome.exe
+8140	fileTransfer1000.exe
+4472	Explorer.EXE
+5696	fileTransfer1000.exe
+7580	fileTransfer1000.exe
+6192	fileTransfer1000.exe
+1600	plink.exe
+7740	PowerShell.exe
+4248	powershell.exe
+4	System
+5076	powershell.exe
+1748	powershell.exe
+5076	SearchFilterHost.exe
+6392	cmd.exe
+5036	fileTransfer1000.exe
+5076	cmd.exe
+836	powershell.exe
+2336	WINWORD.EXE
+2084	cmd.exe
+7312	cmd.exe
+7188	PowerShell.exe
+4776	powershell.exe
+648	powershell.exe
+7444	fileTransfer1000.exe
+5100	OUTLOOK.EXE
+5396	fileTransfer1000.exe
+540	cmd.exe
+5604	SearchProtocolHost.exe
+2924	SearchProtocolHost.exe
+
+ATTACK/0201
+142.20.56.204
+142.20.56.202
+142.20.61.134
+142.20.61.132
+142.20.61.130
+142.20.61.131
+142.20.57.147
+132.197.158.98
+
+/device/harddiskvolume1/programdata/lwa/.winlogbeat.yml.new
+/device/harddiskvolume1/users/zleazer/downloads/runme.bat
+/device/harddiskvolume1/users/zleazer/downloads/runme.bat:zone.identifier
+/device/mup/142.20.56.204/pipe/wkssvc
+/device/mup/142.20.56.204/pipe/lsarpc
+
+3520	firefox.exe
+5324	mstsc.exe
+1224	mstsc.exe
+4892	mstsc.exe
+5952	findstr.exe
+568	lsass.exe
+1284	cmd.exe
+5072	smartscreen.exe
+5452	powershell.exe
+4	System
+5088	python.exe
+400	svchost.exe
+636	firefox.exe
+864	svchost.exe
+1200	lwabeat.exe
+660	svchost.exe
+2952	powershell.exe
+760	svchost.exe
+2600	Explorer.EXE
+5892	SearchProtocolHost.exe

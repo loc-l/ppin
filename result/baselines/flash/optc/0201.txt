@@ -1,0 +1,73 @@
+4312	PING.EXE
+1284	cmd.exe
+4848	PING.EXE
+660	svchost.exe
+6020	PING.EXE
+5640	PING.EXE
+3960	PING.EXE
+1284	PING.EXE
+1588	conhost.exe
+5536	PING.EXE
+4	System
+5424	PING.EXE
+4680	cmd.exe
+3536	conhost.exe
+4996	OneDriveSetup.exe
+1164	tasklist.exe
+2600	Explorer.EXE
+5736	PING.EXE
+3580	userinit.exe
+2248	cmd.exe
+3884	PING.EXE
+1692	PING.EXE
+3152	cmd.exe
+1184	PING.EXE
+5892	SearchProtocolHost.exe
+3360	PING.EXE
+5072	smartscreen.exe
+3372	PING.EXE
+5472	PING.EXE
+5252	conhost.exe
+6008	PING.EXE
+2196	PING.EXE
+5612	PING.EXE
+4308	cmd.exe
+5528	PING.EXE
+5284	tasklist.exe
+5952	findstr.exe
+5764	tasklist.exe
+1592	conhost.exe
+5476	cmd.exe
+504	PING.EXE
+4388	PING.EXE
+1808	tasklist.exe
+5828	qwinsta.exe
+5320	conhost.exe
+3016	PING.EXE
+5476	PING.EXE
+3216	cmd.exe
+5052	conhost.exe
+2472	PING.EXE
+6004	PING.EXE
+3684	PING.EXE
+400	svchost.exe
+928	PING.EXE
+1548	PING.EXE
+4124	PING.EXE
+5984	cmd.exe
+4692	PING.EXE
+3380	cmd.exe
+3520	firefox.exe
+
+\Device\HarddiskVolume1\Users\zleazer\AppData\Local\Temp\CVRFFBA.tmp
+\Device\HarddiskVolume1\documents\ppt2DF9.tmp
+\Device\HarddiskVolume1\Users\zleazer\AppData\Local\Temp\CVR3C0.tmp
+\Device\HarddiskVolume1\Users\zleazer\AppData\Local\Temp\BvOdkBu5.bat.part
+\Device\HarddiskVolume1\documents\ppt11CC.tmp
+\Device\HarddiskVolume1\Users\zleazer\Downloads\runme.bat
+\Device\HarddiskVolume1\Windows\System32\sc.exe
+\Device\HarddiskVolume1\Users\zleazer\Downloads\runme.bat:Zone.Identifier
+\Device\HarddiskVolume1\documents\pptC7DE.tmp
+\Device\HarddiskVolume1\Windows\SysWOW64\OneDriveSetup.exe
+\Device\HarddiskVolume1\Users\zleazer\AppData\Local\Temp\CVR8AF.tmp
+

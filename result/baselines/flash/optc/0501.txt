@@ -1,0 +1,106 @@
+5696	fileTransfer1000.exe
+7580	fileTransfer1000.exe
+5036	fileTransfer1000.exe
+456	csrss.exe
+2804	wmiprvse.exe
+7720	conhost.exe
+852	svchost.exe
+4472	Explorer.EXE
+7688	smss.exe
+2252	cmd.exe
+4	System
+364	csrss.exe
+6192	fileTransfer1000.exe
+4744	wmiprvse.exe
+7444	fileTransfer1000.exe
+5944	qwinsta.exe
+8140	fileTransfer1000.exe
+1684	csrss.exe
+3216	svchost.exe
+2716	cmd.exe
+1168	mstsc.exe
+652	svchost.exe
+1424	python.EXE
+552	lsass.exe
+648	powershell.exe
+3236	cmd.exe
+276	smss.exe
+7740	PowerShell.exe
+1748	powershell.exe
+4840	TiWorker.exe
+5076	powershell.exe
+2028	svchost.exe
+2796	conhost.exe
+1012	svchost.exe
+6392	cmd.exe
+3164	Explorer.EXE
+5244	WINWORD.EXE
+292	svchost.exe
+344	svchost.exe
+3864	tasklist.exe
+
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WBEM\WMIPROV.DLL
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-TerminalServices-Publishing-WMIProvider-Package~31bf3856ad364e35~amd64~~10.0.15063.0.mum
+\Device\HarddiskVolume1\Windows\SysWOW64\kernelbase.dll
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Group Policy\History\{5402C24B-C8CE-4DCB-AC9A-8CA87A2AC587}\S-1-5-21-4190936083-3304963419-1584388968-4146\Preferences\Registry\Registry.xml
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WMICLNT.DLL
+\Device\HarddiskVolume1\Windows\SysWOW64\fwpuclnt.dll
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-WMI-SNMP-Provider-Package~31bf3856ad364e35~amd64~en-US~10.0.15063.0.mum
+\Device\HarddiskVolume1\ProgramData\Microsoft\Group Policy\History
+\Device\HarddiskVolume1\Windows\Prefetch\WMIPRVSE.EXE-43972D0F.pf
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-TerminalServices-Publishing-WMIProvider-Package~31bf3856ad364e35~amd64~en-US~10.0.15063.0.mum
+\Device\HarddiskVolume1\USERS\BANTONIO\APPDATA\LOCAL\MICROSOFT\GROUP POLICY\HISTORY
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework64\v4.0.30319\WMINet_Utils.dll::$EA
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-WMI-SNMP-Provider-Package~31bf3856ad364e35~amd64~~10.0.15063.0.mum
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI\RtBackup
+\Device\HarddiskVolume1\Windows\SysWOW64\napinsp.dll
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI\RtBackup\EtwRTMsDiagProv.etl
+\Device\HarddiskVolume1\Windows\Temp\His7FA.tmp
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WBEM\WMIPRVSE.EXE
+\Device\HarddiskVolume1\WINDOWS\SYSWOW64\WBEM\WMIUTILS.DLL
+\Device\HarddiskVolume1\Windows\SysWOW64\winrnr.dll
+\Device\HarddiskVolume1\Windows\Logs\WindowsUpdate\WindowsUpdate.20190920.201302.964.1.etl
+\Device\HarddiskVolume1\Windows\SysWOW64\apphelp.dll
+\Device\HarddiskVolume1\ProgramData\Microsoft\Group Policy\History\{AF9DE7E4-7642-492B-B7EC-073808813C4A}\Machine\Preferences\Files\Files.xml
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000020.db
+\Device\HarddiskVolume1\Windows\SysWOW64\IPHLPAPI.DLL
+\Device\HarddiskVolume1\Windows\System32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Microsoft-Windows-PeerToPeer-Full-Package~31bf3856ad364e35~amd64~~10.0.15063.0.cat
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Group Policy\History\{31B2F340-016D-11D2-945F-00C04FB984F9}\S-1-5-21-4190936083-3304963419-1584388968-4146\Preferences\ScheduledTasks\ScheduledTasks.xml
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WBEM\WMIUTILS.DLL
+\Device\HarddiskVolume1\Windows\SysWOW64\mswsock.dll
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Group Policy\History\{0AACB288-02FA-4FE0-B48E-0FF35A75B29E}\S-1-5-21-4190936083-3304963419-1584388968-4146\Preferences\Registry\Registry.xml
+\Device\HarddiskVolume1\Windows\SysWOW64\DNSAPI.dll
+\Device\HarddiskVolume1\Windows\SysWOW64\bcrypt.dll
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000001f.db
+\Device\HarddiskVolume1\Windows\system32\wbem\WMIPICMP.dll
+\Device\HarddiskVolume1\ProgramData\Microsoft\Group Policy\History\{59DE43A4-654B-4EB0-9D75-F2F66068034B}\Machine\Preferences\ScheduledTasks\ScheduledTasks.xml
+\Device\HarddiskVolume1\Users\bantonio\AppData\Local\Microsoft\Windows\INetCache\Content.Outlook\H777GZPT\payroll.docx
+\Device\HarddiskVolume1\$Mft
+\Device\HarddiskVolume1\Windows\Microsoft.NET\Framework64\v4.0.30319\WMINet_Utils.dll
+\Device\HarddiskVolume1\WINDOWS\SYSWOW64\WSOCK32.DLL
+\Device\HarddiskVolume1\ncr\mantra\lib\WMI-1.4.9
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI\LwtNetLog.etl
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-TerminalServices-WMIProvider-Package~31bf3856ad364e35~amd64~~10.0.15063.0.mum
+\Device\HarddiskVolume1\Windows\SysWOW64\rasadhlp.dll
+\Device\HarddiskVolume1\Users\sysadmin\Downloads\fileTransfer1000.exe
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WBEM\WMIPERFCLASS.DLL
+\Device\HarddiskVolume1\Windows\System32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}
+\Device\HarddiskVolume1\Windows\System32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Microsoft-Windows-Client-Features-WOW64-Package-AutoMerged-net~31bf3856ad364e35~amd64~~10.0.15063.0.cat
+\Device\HarddiskVolume1\WINDOWS\SYSTEM32\WBEM\WMIPRVSD.DLL
+\Device\HarddiskVolume1\Windows\System32\winevt\Logs\Microsoft-Windows-WMI-Activity%4Operational.evtx
+\Device\HarddiskVolume1\Windows\System32\drivers\etc\services
+\Device\HarddiskVolume1\Windows\SysWOW64\NLAapi.dll
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventlog-Security.etl
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI\Wifi.etl
+\Device\HarddiskVolume1\Windows\Servicing\Packages\Microsoft-Windows-TerminalServices-WMIProvider-Package~31bf3856ad364e35~amd64~en-US~10.0.15063.0.mum
+\Device\HarddiskVolume1\Windows\System32\LogFiles\WMI
+\Device\HarddiskVolume1\ProgramData\Microsoft\Group Policy\History\{AF9DE7E4-7642-492B-B7EC-073808813C4A}\Machine\Preferences\EnvironmentVariables\EnvironmentVariables.xml
+\Device\HarddiskVolume1\Windows\System32\CatRoot\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\Package_1202_for_KB4493474~31bf3856ad364e35~amd64~~10.0.1.5.cat
+\Device\HarddiskVolume1\Windows\SysWOW64\pnrpnsp.dll
+\Device\HarddiskVolume1\WINDOWS\MICROSOFT.NET\FRAMEWORK\V4.0.30319\WMINET_UTILS.DLL
+\Device\HarddiskVolume1\Windows\system32\WMICLNT.dll
+\Device\HarddiskVolume1\Windows\SysWOW64\ws2_32.dll
+
+202.6.172.98
+132.197.158.98
+142.20.57.246

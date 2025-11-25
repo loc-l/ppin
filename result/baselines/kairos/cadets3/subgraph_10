@@ -1,0 +1,13 @@
+// the test
+digraph MyPicture {
+	graph [rankdir=LR]
+	9380699345889908536 [label="{'subject': 'syslogd'}10" color=blue shape=box]
+	8035425362092681401 [label="{'file': '/home/frank/Archives.lock'}10" color=blue shape=oval]
+	9380699345889908536 -> 8035425362092681401 [label=EVENT_WRITE color=blue]
+	9380699345889908536 [label="{'subject': 'syslogd'}10" color=blue shape=box]
+	199462899167661811 [label="{'file': '/var/log/maillog'}10" color=blue shape=oval]
+	9380699345889908536 -> 199462899167661811 [label=EVENT_WRITE color=blue]
+	9380699345889908536 [label="{'subject': 'syslogd'}10" color=blue shape=box]
+	6635167680731577424 [label="{'file': '/var/log/auth.log'}10" color=blue shape=oval]
+	9380699345889908536 -> 6635167680731577424 [label=EVENT_WRITE color=blue]
+}

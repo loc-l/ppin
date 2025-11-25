@@ -1,0 +1,7 @@
+// the test
+digraph MyPicture {
+	graph [rankdir=LR]
+	6888376244066080883 [label="{'subject': '/home/admin/profile (deleted)'}7" color=red shape=box]
+	14687352302404975410 [label="{'file': '/var/log/xdev'}7" color=red shape=oval]
+	6888376244066080883 -> 14687352302404975410 [label=EVENT_WRITE color=red]
+}

@@ -1,0 +1,291 @@
+/usr/share/themes/Ambiance/gtk-3.0/apps/unity.css
+/usr/share/themes/Ambiance/gtk-3.0/apps/gnome-panel.css
+/dev/glx_alsa_675
+/usr/share/themes/Ambiance/gtk-3.0/assets/scrollbar_handle.png
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_backdrop.png
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_insensitive_backdrop.png
+/bin/dash
+/usr/share/themes/Ambiance/gtk-3.0/gtk-widgets-backdrop.css
+/var/lib/dbus/machine-id
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight_vertical.png
+/run/shm/org.chromium.w5IzsO
+/var/log/xdev
+/var/log
+/etc/netconfig
+/home/admin/eraseme/www.igodigital.com/index.html
+/etc/gtk-3.0/settings.ini
+/run/shm/org.chromium.4ADoSI
+/home/admin/.cache/mozilla/firefox/pe11scpa.default
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_insensitive.png
+/run/shm/org.chromium.CBMobq
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider.png
+/var/log/mail
+/usr/share/zoneinfo/America/New_York
+/home/admin/eraseme/www.igodigital.com/images/b_viewDemos.gif
+/usr/bin/wget
+/etc/wgetrc
+/proc/1226/maps
+/etc/firefox/native-messaging-hosts/gtcache
+/usr/share/themes/Ambiance/gtk-3.0/apps/unity-greeter.css
+/home/admin/eraseme/www.igodigital.com/style.css
+/home/admin/.mozilla/firefox/pe11scpa.default/sessionCheckpoints.json.tmp
+/var/log/wdev
+/usr/share/themes/Ambiance/gtk-3.0/apps/gnome-terminal.css
+/proc/17718/mountinfo
+/home/admin/eraseme/www.igodigital.com/images/bg.gif
+/tmp/memtrace.so
+/home/admin/eraseme/www.igodigital.com/images/customers.gif
+/proc/2470/net/if_inet6
+/usr/share/themes/Ambiance/gtk-3.0/gtk.css
+/tmp
+/run/shm/org.chromium.cVJkAg
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_prelight.png
+/proc/13776/maps
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_insensitive.png
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_backdrop.png
+/usr/share/zoneinfo/Etc/Zulu
+/run/shm/org.chromium.AyDcFZ
+/run/shm/org.chromium.MVzsZ6
+/proc/18/stat
+/home/admin/eraseme/www.igodigital.com/ieupdate.js
+/dev/urandom
+/usr/lib/x86_64-linux-gnu/gtk-3.0/3.0.0/immodules.cache
+/usr/lib/x86_64-linux-gnu/libidn.so.11.6.6
+/usr/share/themes/Ambiance/gtk-3.0/assets/scrollbar_handle_vertical.png
+/dev/null
+/usr/share/themes/Ambiance/gtk-3.0/apps/gedit.css
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical.png
+/home/admin/eraseme/www.igodigital.com/images/clear.gif
+/run/shm/org.chromium.KpuM3T
+/home/admin/.mozilla/firefox/pe11scpa.default/xulstore.json.tmp
+/lib/x86_64-linux-gnu/libnss_dns-2.15.so
+/run/shm/org.chromium.G8LXgd
+/usr/share/themes/Ambiance/gtk-3.0/gtk-widgets.css
+/run/shm/org.chromium.cs8xav
+/usr/share/themes/Ambiance/gtk-3.0/assets/slider_vertical_insensitive_backdrop.png
+/usr/share/themes/Ambiance/gtk-3.0/settings.ini
+/etc/timezone
+/proc/14204/maps
+/usr/share/themes/Ambiance/gtk-3.0/apps/nautilus.css
+/home/admin/.mozilla/firefox/pe11scpa.default/sessionstore.js.tmp
+/proc/14228/maps
+/lib/libnss_mdns4_minimal.so.2
+/home/admin/eraseme/www.igodigital.com/images/shaddow.gif
+
+128.55.12.73
+149.52.198.23
+NA
+146.153.68.151
+128.55.12.10
+161.116.88.72
+128.55.12.110
+127.0.0.1
+141.43.176.203
+
+8188	profile
+13681	profile (deleted)
+13764	profile (deleted)
+13803	profile (deleted)
+13804	profile (deleted)
+13805	profile (deleted)
+13806	profile (deleted)
+13831	profile (deleted)
+13832	profile (deleted)
+13834	profile (deleted)
+14288	profile (deleted)
+14289	profile (deleted)
+14290	profile (deleted)
+14365	profile (deleted)
+14370	profile (deleted)
+14371	profile (deleted)
+14375	profile (deleted)
+14376	mail
+14377	mail
+14413	mail
+14420	profile (deleted)
+14421	profile (deleted)
+7204	fluxbox
+7259	firefox
+7246	firefox
+7264	firefox
+2470	ntpd
+7243	firefox
+7265	firefox
+7268	firefox
+7267	firefox
+1856	postgres
+1857	postgres
+7316	firefox
+1927	unity-panel-service
+1452	Xorg
+1675	gnome-settings-daemon
+7301	pulseaudio
+8436	bash
+8649	bash
+8765	bash
+983	dhclient
+9200	firefox
+9312	firefox
+1099	dhclient
+1842	bamfdaemon
+13253	firefox
+13516	firefox
+13517	firefox
+13551	firefox
+13557	fluxbox
+13614	firefox
+13615	firefox
+13629	firefox
+13634	firefox
+13671	firefox
+13672	firefox
+13676	firefox
+13677	firefox
+13682	firefox
+13694	firefox
+13698	firefox
+13699	firefox
+13700	firefox
+13701	firefox
+13702	firefox
+13747	firefox
+13748	pass_mgr
+13749	dash
+13750	dash
+13751	gtcache
+13756	gtcache
+13761	gtcache
+13762	gtcache
+13766	gtcache
+13767	gtcache
+13768	gtcache
+13769	gtcache
+13770	gtcache
+2491	update-notifier
+13781	firefox
+13782	firefox
+13783	firefox
+13784	firefox
+13799	firefox
+13809	gtcache
+13810	gtcache
+13811	gtcache
+13820	firefox
+13825	gtcache
+13827	gtcache
+13828	gtcache
+13877	gtcache
+13887	gtcache
+13888	gtcache
+13899	firefox
+13900	firefox
+13907	gtcache
+13909	gtcache
+13910	gtcache
+14050	bash
+14051	bash
+14148	firefox
+14160	firefox
+14199	gtcache
+14200	gtcache
+14210	firefox
+14211	firefox
+14217	firefox
+14223	gtcache
+14224	gtcache
+14229	firefox
+14239	gtcache
+14241	gtcache
+14242	firefox
+14275	gtcache
+14276	gtcache
+14282	gtcache
+14283	gtcache
+14285	gtcache
+14286	gtcache
+14292	firefox
+14293	firefox
+14308	firefox
+14334	firefox
+14382	firefox
+507	rpcbind
+14391	sshd
+2278	apache2
+14392	firefox
+14394	firefox
+14397	sshd
+14409	firefox
+14422	firefox
+14423	firefox
+14425	firefox
+14436	firefox
+14461	firefox
+14782	bash
+14783	bash
+14977	sshd
+15298	bash
+16151	firefox
+16164	firefox
+16643	firefox
+16648	firefox
+16856	bash
+17069	bash
+17501	firefox
+17502	firefox
+17503	firefox
+17551	firefox
+17552	firefox
+17601	firefox
+17607	firefox
+17617	firefox
+17623	firefox
+17631	firefox
+17691	firefox
+17709	firefox
+17729	thunderbird
+17764	firefox
+17765	firefox
+17766	firefox
+17775	thunderbird
+17787	thunderbird
+17792	firefox
+17794	thunderbird
+17808	firefox
+17810	firefox
+17814	firefox
+17878	firefox
+17879	firefox
+17880	firefox
+17945	firefox
+17947	firefox
+17958	firefox
+17959	firefox
+17968	firefox
+18028	thunderbird
+18070	firefox
+18137	firefox
+18141	firefox
+18239	firefox
+18243	firefox
+18284	firefox
+18288	firefox
+18970	bash
+19399	firefox
+20074	firefox
+20087	firefox
+20092	sshd
+20095	firefox
+20104	firefox
+20107	firefox
+20144	firefox
+20151	firefox
+20174	firefox
+20215	firefox
+20293	firefox
+20296	firefox
+20332	firefox
+20335	firefox
+20348	firefox
+20391	firefox
+20421	firefox
+

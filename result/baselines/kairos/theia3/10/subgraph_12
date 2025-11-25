@@ -1,0 +1,7 @@
+// the test
+digraph MyPicture {
+	graph [rankdir=LR]
+	11644826117585554662 [label="{'subject': '/usr/bin/apt-config'}12" color=blue shape=box]
+	1399715683813280927 [label="{'file': '/usr/bin/dpkg'}12" color=blue shape=oval]
+	11644826117585554662 -> 1399715683813280927 [label=EVENT_EXECUTE color=blue]
+}

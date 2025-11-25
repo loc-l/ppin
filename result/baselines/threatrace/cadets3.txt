@@ -1,0 +1,168 @@
+/etc/newsyslog.conf.d/pf.conf
+/usr/local/etc/periodic/security/410.pkg-audit
+/sbin/ipfw
+/etc/rc.d/ntpd
+/etc/defaults/periodic.conf
+/bin/mkdir
+/etc/newsyslog.conf.d/ppp.conf
+/etc/rc.d/sshd
+/sbin/resolvconf
+/lib/libm.so.5
+/usr/home/admin/.ssh
+/bin/unlink
+/bin/ps
+/bin/sh
+/var/run/ntpd.pid
+/usr/sbin/newsyslog
+/usr/bin/resizewin
+/sbin/route
+/bin/expr
+/usr/lib/libgnuregex.so.5
+/bin/kenv
+/usr/bin/sed
+/tmp/tmux-1002
+saved-entropy.1
+/var/run/resolvconf/lock/pid
+/usr/libexec/save-entropy
+/etc/periodic/security/500.ipfwdenied
+/lib/libutil.so.9
+/etc/periodic/security/410.logincheck
+/usr/bin/wc
+/tmp/periodic.Gu2SGveu5C
+/etc/periodic/security/520.pfdenied
+/etc/periodic/security/110.neggrpperm
+/tmp/test
+/usr/local/etc/periodic/security/460.pkg-checksum
+/var/run/ld-elf.so.hints
+/var/log/netlog
+/tmp/mail.RsBx5Myfdfi6
+/etc/rc.subr
+/lib/lib80211.so.1
+/etc/periodic/security/300.chkuid0
+/lib/libc.so.7
+/sbin/sysctl
+/home/user/.bash_history
+/usr/bin/mail
+/tmp/minions
+/etc/mail/submit.cf
+/home/charles/Archives
+/etc/periodic/daily/120.clean-preserve
+/etc/periodic/security/610.ipf6denied
+/etc/newsyslog.conf.d/sendmail.conf
+/etc/mail/sendmail.cf
+/var/run/sshd.pid
+/lib/libpcap.so.8
+/usr/bin/sort
+/tmp/mail.RsiBShdzSKQc
+/etc/defaults/rc.conf
+/etc/newsyslog.conf.d/lpr.conf
+/sbin/pfctl
+/var/run/periodic.daily.lock
+/libexec/ld-elf.so.1
+/etc/newsyslog.conf.d/amd.conf
+/usr/bin/lockf
+/etc/periodic/daily/140.clean-rwho
+/var/db/entropy/saved-entropy.4
+/usr/sbin/periodic
+/tmp/mail.Rs3hgogVy0ip
+/bin/cat
+/etc/rc.conf
+/tmp/font
+/etc/libmap.conf
+/etc/mail.rc
+/etc/newsyslog.conf
+/etc/newsyslog.conf.d/ftp.conf
+/etc/periodic/security/security.functions
+/usr/bin/tee
+/bin/hostname
+/usr/share/games/fortune/freebsd-tips
+/usr/share/games/fortune/freebsd-tips.dat
+/var/run/periodic.security.lock
+/etc/rc.conf.local
+/usr/bin/fortune
+/bin/dd
+/tmp/XIM
+/tmp/main
+/var/run/resolvconf/lock
+/usr/bin/env
+/var/run/resolvconf/interfaces/vtnet1
+/lib/libthr.so.3
+/dev/hpet0
+
+128.55.12.110
+128.55.12.122
+::1
+128.55.12.67
+127.0.0.1
+128.55.12.10
+128.55.12.1
+192.113.144.28
+128.55.12.73
+128.55.12.141
+128.55.12.55
+216.87.162.115
+
+1342	alpine
+780	python2.7
+877	pickup
+878	qmgr
+1993	python2.7
+2307	sh
+3051	python2.7
+3926	python2.7
+4847	python2.7
+5629	python2.7
+6430	python2.7
+7226	sh
+7227	sh
+7228	sh
+7229	sh
+7310	python2.7
+7408	bash
+8168	bzcat
+8217	sh
+8234	rm
+8233	sendmail
+8238	mail.local
+8279	python2.7
+9009	python2.7
+9728	python2.7
+10458	python2.7
+11186	python2.7
+11911	python2.7
+12631	python2.7
+13370	python2.7
+14190	python2.7
+15021	python2.7
+16091	python2.7
+17146	python2.7
+18109	python2.7
+18924	python2.7
+19984	python2.7
+20107	tmux-1002
+20151	atrun
+20298	minions
+20327	sshd
+20408	XIM
+20469	atrun
+20494	sshd
+20586	test
+20611	sh
+20623	test
+20662	sh
+20668	sh
+20671	sh
+20672	sh
+20688	sh
+20692	test
+20708	test
+20709	uname
+20738	uname
+21068	python2.7
+21866	python2.7
+22876	python2.7
+23985	python2.7
+24970	python2.7
+25847	python2.7
+26652	python2.7
+27479	python2.7

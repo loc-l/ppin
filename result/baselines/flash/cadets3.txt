@@ -1,0 +1,105 @@
+/etc/libmap.conf
+/bin/sh
+/var/cache/salt/minion/proc/20180412080113293333
+/var/cache/salt/minion/proc/20180412090113300989
+/var/cache/salt/minion/proc/20180412120113296767
+/var/cache/salt/minion/proc/20180412190113315649
+/tmp/test
+/var/cache/salt/minion/proc/20180412020113331770
+/var/cache/salt/minion/proc/20180412170113301086
+/var/cache/salt/minion/proc/20180413000113301056
+/etc/periodic/security/700.kernelmsg
+/var/cache/salt/minion/proc/20180411230113297702
+/tmp/XIM
+/var/log/salt/minion
+/var/cache/salt/minion/proc/20180411220113323647
+/var/cache/salt/minion/proc/20180412150113300433
+/tmp/tmux-1002
+/tmp/main
+/var/cache/salt/minion/proc/20180412040113292041
+/var/log/netlog
+/lib/libthr.so.3
+/var/cache/salt/minion/extmods/modules
+/var/backups/pkg.sql.xz.4
+/lib/libc.so.7
+/var/db/dhclient.leases.vtnet0
+/home/user/#pico01342#
+/libexec/ld-elf.so.1
+/var/cache/salt/minion/proc/20180412070113291222
+/lib/libm.so.5
+/var/cache/salt/minion/proc/20180412050113297271
+/dev/hpet0
+/usr/local/lib/python2.7/site-packages/salt/modules/config.pyc
+/var/run/ld-elf.so.hints
+/var/cache/salt/minion/proc/20180412210113300410
+/tmp/.31.29ad6
+/var/cache/salt/minion/proc/20180413020113324345
+/usr/local/lib/python2.7/site-packages/salt/modules/mine.pyc
+/var/run/ntpd.pid
+/tmp/minions
+/var/db/dhclient.leases.vtnet1
+/var/cache/salt/minion/proc/20180412030113321210
+/var/cache/salt/minion/proc/20180412140113292088
+/var/cache/salt/minion/proc/20180412060113303483
+/var/cache/salt/minion/proc/20180412010113331460
+/var/cache/salt/minion/proc/20180413010113302693
+/var/cache/salt/minion/proc/20180411210113308569
+/var/cache/salt/minion/proc/20180412220113307750
+/dev/bpf0
+/var/cache/salt/minion/proc/20180412110113310879
+/var/cache/salt/minion/proc/20180412160113297367
+/var/cache/salt/minion/proc/20180412100113319308
+/lib/libpcap.so.8
+/usr/local/lib/python2.7/site-packages/salt/modules/mine.py
+/tmp/font
+/var/cache/salt/minion/proc/20180412130113307418
+/var/cache/salt/minion/proc/20180412200113293947
+/var/cache/salt/minion/proc
+/usr/local/lib/python2.7/site-packages/salt/modules/config.py
+/var/cache/salt/minion/proc/20180412180113291397
+/lib/libutil.so.9
+/home/user/.bash_history
+/var/cache/salt/minion/proc/20180412230113300162
+
+128.55.12.141
+128.55.12.122
+127.0.0.1
+128.55.12.110
+128.55.12.67
+128.55.12.1
+192.113.144.28
+::1
+128.55.12.10
+128.55.12.55
+
+20586	test
+20408	XIM
+20298	minions
+20026	tmux-1002
+20709	uname
+20692	test
+20107	tmux-1002
+20623	test
+20708	test
+20738	uname
+20227	minions
+20469	atrun
+20367	XIM
+20151	atrun
+20327	sshd
+446	dhclient
+780	python2.7
+877	pickup
+7493	grep
+456	dhclient
+893	nginx
+8238	mail.local
+505	dhclient
+8233	sendmail
+506	devd
+7416	cat
+7354	vmstat
+878	qmgr
+8221	pkg
+433	dhclient
+

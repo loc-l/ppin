@@ -1,0 +1,13 @@
+// the test
+digraph MyPicture {
+	graph [rankdir=LR]
+	18300097918531082961 [label="{'subject': 'newsyslog'}9" color=blue shape=box]
+	6468917867092599697 [label="{'file': '/etc/newsyslog.conf.d/amd.conf'}9" color=blue shape=oval]
+	18300097918531082961 -> 6468917867092599697 [label=EVENT_OPEN color=blue]
+	18300097918531082961 [label="{'subject': 'newsyslog'}9" color=blue shape=box]
+	11175051937476705546 [label="{'file': '/etc/newsyslog.conf.d/pf.conf'}9" color=blue shape=oval]
+	18300097918531082961 -> 11175051937476705546 [label=EVENT_CLOSE color=blue]
+	18300097918531082961 [label="{'subject': 'newsyslog'}9" color=blue shape=box]
+	16759198875265776022 [label="{'file': '/etc/newsyslog.conf.d/ppp.conf'}9" color=blue shape=oval]
+	18300097918531082961 -> 16759198875265776022 [label=EVENT_CLOSE color=blue]
+}

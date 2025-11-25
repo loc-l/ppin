@@ -1,0 +1,251 @@
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/matrixImage.gif
+/usr/home/user/eraseme/www.tourism.gov.pk
+/var/spool/mqueue/.
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketBrowseByTopic.gif
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/niuSpotlight.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketCentersOffices.gif
+/usr/home/user/eraseme/www.sako.fi
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_04.jpg
+/usr/local/libexec/postfix/smtpd
+/usr/local/libexec/postfix/local
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets
+/var/spool/clientmqueue/.
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_06.jpg
+/usr/home/user/eraseme
+/home/henry
+/var/rwho
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketINeedHelpWith.gif
+/var/empty
+/usr/local/etc/periodic/daily/411.pkg-backup
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/moreContent23px.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/moreBucket.gif
+/.
+/usr/ports/textproc/xmlcharent/work/stage/usr/local/share/locale/pt/LC_MESSAGES/..
+/var/spool/postfix/incoming
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/footerSep.gif
+/home/user/.login_conf
+/usr/home/user/eraseme/www.samhsa.gov/images/logos/SBIRT.jpg
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/titleProgramsCampaigns.gif
+/usr/home/user/eraseme/www.samhsa.gov/images/logos/helpingyouth.gif
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/nomsSpotlight.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketSearchSAMHSA.gif
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_03.jpg
+/usr/home/user/eraseme/www.samhsa.gov/index.html
+/root/.
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/nreppSpotlight.gif
+/usr/home/user/eraseme/www.samhsa.gov
+/data/update/build-meta/freebsd/contrib/llvm/tools/lldb/tools/..
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights
+/etc/passwd
+/usr/home/user/eraseme/www.samhsa.gov/images
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_01.jpg
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/titleLatestHeadlines.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/titleSpotlights.gif
+/usr/local/www/nginx-dist
+/tmp/.31.29b4b
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketEventsConferences.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bulletArrowSM.gif
+/etc/periodic/daily
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_05.jpg
+/var/at/jobs/.
+/var/spool/postfix/deferred
+/usr/home/user/eraseme/www.samhsa.gov/images/logos
+/tmp/vuln.xml.bz2.dDkhs8Vz
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/footerSides.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketNewsletter.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/join_button_grey.gif
+/var/spool/postfix/deferred/B
+/var/db/entropy/.
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/mh_spotlight.jpg
+/home/admin/.login_conf
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/headerV2_07.jpg
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketSAMHSAMatrix.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/searchButton.gif
+/usr/home/user/eraseme/www.samhsa.gov/css
+/etc/periodic/security/700.kernelmsg
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/pc15plus.gif
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images
+/data/update/build-meta/llvm/tools/clang/test/Driver/Inputs/basic_linux_libcxx_tree/usr/include/c++/v1/..
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/recovery2007spotlight.jpg
+/var/spool/postfix/deferred/0
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/bulletRoundOrange.gif
+/var/preserve/.
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/spotlightAlcohol.jpg
+/usr/home/user/eraseme/www.samhsa.gov/Include
+/usr/home/user/eraseme/www.samhsa.gov/css/redesignScreen.css
+/usr/home/admin/.ssh
+/tmp/font
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucket_suicide.gif
+/var/spool/postfix/trace/..
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/bucketEmailUpdates.gif
+/usr/ports/devel/gettext-tools/work/stage/usr/local/share/nls/am_ET.UTF-8/..
+/usr/local/etc/periodic/daily
+/usr/home/user/eraseme/www.samhsa.gov/css/buckets.css
+/usr/home/user/eraseme/www.samhsa.gov/Spotlights/images/suicideHotlineSpotlight.gif
+/usr/home/user/eraseme/www.ebay.ca
+/usr/home/user/eraseme/www.samhsa.gov/Include/buckets/images/newsletter2.jpg
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006
+/usr/home/user/eraseme/www.samhsa.gov/images/header2006/ironmanFooter.gif
+/var/spool/postfix/deferred/A
+/home/charles/Archives.lock
+
+192.113.144.28
+128.55.12.55
+128.55.12.122
+127.0.0.1
+128.55.12.110
+128.55.12.10
+128.55.12.1
+128.55.12.67
+128.55.12.166
+10.0.4.1
+128.55.12.73
+128.55.12.141
+
+20327	sshd
+20708	test
+1349	bash
+780	python2.7
+748	ntpd
+958	sendmail
+650	syslogd
+506	devd
+1077	imapd
+876	master
+877	pickup
+804	sshd
+965	cron
+446	dhclient
+878	qmgr
+991	inetd
+1680	anvil
+1802	smtpd
+1803	proxymap
+1804	trivial-rewrite
+1840	smtpd
+1876	smtpd
+1881	smtpd
+1886	smtpd
+1896	smtpd
+1979	cleanup
+1980	local
+1981	local
+1982	local
+961	sendmail
+2042	smtpd
+2045	smtpd
+2046	smtpd
+2077	smtpd
+2081	smtpd
+2095	smtpd
+505	dhclient
+2137	smtpd
+892	nginx
+885	php-fpm
+2507	wget
+2732	pickup
+4161	smtpd
+4162	proxymap
+4163	trivial-rewrite
+4192	smtpd
+4193	smtpd
+4294	pickup
+5628	pickup
+456	dhclient
+459	dhclient
+433	dhclient
+436	dhclient
+6949	pickup
+7216	cron
+7221	sh
+7230	sh
+7306	sendmail
+7326	sh
+7341	sh
+7345	sleep
+7355	sleep
+7362	lsof
+7388	rm
+7398	wc
+7397	tee
+7408	bash
+7419	cat
+7416	cat
+7427	sed
+7450	grep
+7471	sh
+7481	egrep
+7493	grep
+8078	pkg
+8117	pkg
+8123	head
+8137	sleep
+8160	sed
+8172	sh
+8177	sh
+8182	sh
+8194	sendmail
+8216	mv
+8217	sh
+8218	xz
+8221	pkg
+8233	sendmail
+8238	mail.local
+8512	pickup
+9732	pickup
+10929	pickup
+12144	pickup
+13375	pickup
+13411	smtpd
+13412	proxymap
+13415	trivial-rewrite
+13455	smtpd
+13473	smtpd
+13476	smtpd
+13478	smtpd
+13494	smtpd
+13517	smtpd
+13518	smtpd
+14710	pickup
+15760	trivial-rewrite
+16427	pickup
+18131	pickup
+19503	imapd
+19634	pickup
+20184	trivial-rewrite
+20611	sh
+20662	sh
+20664	sh
+20667	sh
+20668	sh
+20670	sh
+20674	sh
+20677	sh
+20680	sh
+20683	sh
+20686	sh
+21306	pickup
+893	nginx
+22440	smtpd
+22441	proxymap
+22466	smtpd
+22565	wget
+22854	smtpd
+22881	pickup
+23748	smtpd
+23751	trivial-rewrite
+23753	local
+24624	pickup
+25099	imapd
+25415	smtpd
+25416	proxymap
+25449	smtpd
+25451	smtpd
+25465	smtpd
+25665	smtpd
+25666	proxymap
+26116	pickup
+26464	smtpd
+27484	pickup
+
