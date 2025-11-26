@@ -26,5 +26,16 @@
         "infeat" : 256,
         "interval":900000000000,
         "beta":0.3
+    },
+    "optc":{
+        "name": "optc",
+        "data_path" : "data/optc/",
+        "event_config_path" : "config/optc.txt",
+        "train_data" : ["data/optc/benign_0051.json", "data/optc/benign_0501.json", "data/optc/benign_0201.json"],
+        "detect_host": ["0051", "0501", "0201"],
+        "epoch" : 40,
+        "infeat" : 64,
+        "interval":900000000000,
+        "beta":0.3
     }
 }

@@ -1,0 +1,160 @@
+/device/harddiskvolume1/documents/\w{7,8}($|\.tmp)
+/device/harddiskvolume1/\$recycle\.bin
+/device/harddiskvolume1/.*/(favorites|links)
+/device/harddiskvolume1/(python27|python37)/(lib|libs|include|scripts|tools|tcl|)
+/device/harddiskvolume1/ncr/mantra/runtime
+/device/harddiskvolume1/windows/fonts/.*(ttc|ttf|fon)
+/device/harddiskvolume1/windows/(system32|syswow64)/catroot
+/device/harddiskvolume1/windows/(system32|syswow64)/driverstore
+/device/harddiskvolume1/(program files.*|windows/(system32|syswow64))/windowspowershell
+/device/harddiskvolume1/windows/(system32|syswow64)/winevt/logs/.*\.evtx
+/device/harddiskvolume1/windows/(system32|syswow64)/config/.*\.log
+/device/harddiskvolume1/windows/(system32|syswow64)/config/txr/.*\.(regtrans-ms|blf)
+/device/harddiskvolume1/(programdata|device/harddiskvolume1/windows/syswow64/config/systemprofile/appdata/local)/microsoft/vault
+/device/harddiskvolume1/windows/(system32|syswow64)/config/systemprofile/appdata/local/microsoft/windows/caches/.*db
+/device/harddiskvolume1/windows/(system32|syswow64)/config/components
+/device/harddiskvolume1/windows/(system32|syswow64)/config/drivers
+/device/harddiskvolume1/windows/(system32|syswow64)/config/systemprofile/appdata/local/microsoft/clr_v4\.0
+/device/harddiskvolume1/windows/(system32|syswow64)/.*\.(dll|drv|sys|nls|dll.mui|acm|cpl|tlb)
+/device/harddiskvolume1/windows/system32/(gpupdate|conhost|sppsvc|services|winlogon|fontdrvhost|mmc|cmd|slui|taskmgr|notepad|msiexec|sppextcomobj|compattelrunner|credentialuibroker|securityhealthservice|searchprotocolhost|winrshost|wermgr|dwm|audiodg|browser_broker|applicationframehost|lsass|logonui|svchost|taskhostw|lockapphost|systemsettingsbroker|wudfhost|wwahost|defrag|installagent|apphostregistrationverifier|devicecensus|wuapihost|csrss|dsregcmd|mstsc|openwith|provtool|sdiagnhost|settingsynchost|tzsync|rundll32|taskkill|installagentuserbroker|wsqmcons|sihclient|reg|wininit|gpscript|userinit|spoolsv|searchindexer|backgroundtaskhost|ntoskrnl|smartscreen|mobsync|wscript|bcdedit|appidpolicyconverter|sc|usoclient|vssvc|consent|cscript|coredpussvr|qwinsta|lpremove|disksnapshot|dstokenclean|dmclient|cleanmgr|lpksetup|filehistory|srtasks|appidcertstorecheck|sihost|dllhost|wuauclt|runtimebroker|smss|ie4uinit|winsat|auditpol|findstr|fsquirt|locationnotificationwindows|makecab|mcbuilder|raserver|secedit|unregmp2|verclsid|w32tm|searchfilterhost|autochk|cliprenew|msdtc|alg)\.exe
+/device/harddiskvolume1/windows.*/en-us/.*\.exe\.mui
+/device/harddiskvolume1/windows/winsxs/x86_microsoft\.(windows|vc|)
+/device/harddiskvolume1/windows/winsxs/wow64
+/device/harddiskvolume1/windows/winsxs/filemaps/.*cdf-ms
+/device/harddiskvolume1/windows/winsxs/amd64_microsoft
+/device/harddiskvolume1/windows/winsxs/manifests/.*manifest
+/device/harddiskvolume1/windows/prefetch/.*(pf|db|ebd|xin|mkd)
+/device/harddiskvolume1/windows/microsoft\.net/framework64
+/device/harddiskvolume1/windows/microsoft\.net/assembly
+/device/harddiskvolume1/windows/assembly/nativeimages
+/device/harddiskvolume1/windows/inf/.*pnf
+/device/harddiskvolume1/windows/logs/windowsupdate/windowsupdate\..*\.etl
+/device/harddiskvolume1/windows/temp/.*\.tmp
+/device/harddiskvolume1/windows/rescache/_merged
+/device/harddiskvolume1/windows/immersivecontrolpanel
+/device/harddiskvolume1/windows/systemresources
+/device/harddiskvolume1/windows/serviceprofiles/localservice/appdata
+/device/harddiskvolume1/windows/system32/wdi
+/device/harddiskvolume1/windows/system32/spool/drivers
+/device/harddiskvolume1/windows/appreadiness
+/device/harddiskvolume1/windows/diagnostics
+/device/harddiskvolume1/(program files(| \(x86\))|windows|.*/appdata/local)/.*/en-us(|/.*)$
+/device/harddiskvolume1/windows/system32/\w{2}-\w{2}$
+/device/harddiskvolume1/.*/ntuser\.dat
+/device/harddiskvolume1/.*/appdata$
+/device/harddiskvolume1/(windows|.*/appdata/local)/temp/rust_mozprofile
+/device/harddiskvolume1/(windows|.*/appdata/local)/temp/__psscriptpolicy
+/device/harddiskvolume1/(windows|.*/appdata/local)/temp/rust_m~
+/device/harddiskvolume1/.*/appdata/local$
+/device/harddiskvolume1/.*/appdata/local/temp$
+/device/harddiskvolume1/.*/appdata/local/temp/.*\.tmp
+/device/harddiskvolume1/.*/appdata/local/temp/[a-z0-9-]+/.*\.(exe|dll)
+/device/harddiskvolume1/.*/appdata/local/temp/scoped_dir_
+/device/harddiskvolume1/(windows/\w+|.*/appdata/local)/packages
+/device/harddiskvolume1/.*/appdata/local/microsoft/onedrive/logs/personal/(syncengine|tracearchive)-.*odl
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/actioncentercache/.*.png
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/caches/.*db
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/inetcache/content\.word(|/~wr(s|f).*tmp)$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/inetcache/content\.mso(|/.*(tmp|jpg|jpeg))$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/history(|/low|/history\.ie5(/container\.dat|/mshist\d+(|/container\.dat)))$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/explorer(|/.*db|/explorerstartuplog.*\.etl)$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/usrclass\.dat(|log\d|.*tm)
+/device/harddiskvolume1/(program files|programdata|.*/appdata)/.*/[a-z.]+_[0-9.]+_neutral_(|neutral)_\w{13}$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/webcache/.*(log|dat|jfm)$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows(|/notifications(|/wpndatabase\.db(|-\w+)))$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows/inetcache/content\.outlook/\w{8}$
+/device/harddiskvolume1/.*/appdata/local/microsoft/windows live
+/device/harddiskvolume1/.*/appdata/local/microsoft/onedrive/[0-9.]+(|/amd64)
+/device/harddiskvolume1/.*/appdata/local/microsoft/onedrive/setup/logs
+/device/harddiskvolume1/.*/appdata/local/microsoft/onedrive/logs
+/device/harddiskvolume1/.*/appdata/local/microsoft/clr_v4\.0/usagelogs
+/device/harddiskvolume1/.*/appdata/local/microsoft/group policy/history
+/device/harddiskvolume1/.*/appdata/local/microsoft(|/[a-z ]+)/(wer|explorer|webcache|logs|schcache|settings|tracing|history|usagelogs|cache|actioncentercache|safety|upps|bici|notifications|inetcookies|setup|burn|playready|outlook|feeds cache)
+/device/harddiskvolume1/.*/appdata/local/microsoft/(wer|tracking protection|sync playlists|internet explorer|schcache|shell|tabroaming|caches|logs|setup|powershell|notifications|ringtones|roamingtiles|settings|inetcookies|recentviews|checkpoints|iecompatdata|actioncentercache|cache|history|application shortcuts|userprofileroaming|inetcache|iecompatcache|pricache|winx|iecompatuacache|burn|bici|settingsync|tracing|webcache|explorer|1024|roamcache|1033|upps|usagelogs|safety|gamedvr|clr_v4\.0)$
+/device/harddiskvolume1/.*/appdata/local/tiledatalayer/database
+/device/harddiskvolume1/.*/appdata/local/temp/mozilla-temp-files/mozilla-temp-
+/device/harddiskvolume1/.*/mozilla/firefox/profiles
+/device/harddiskvolume1/.*/appdata/local/temp/tmp
+/device/harddiskvolume1/.*/appdata/local/connecteddevicesplatform
+/device/harddiskvolume1/.*/appdata/local/grouppolicy/datastore/0
+/device/harddiskvolume1/.*/appdata/locallow/mozilla/temp-
+/device/harddiskvolume1/.*/appdata/local/microsoft/(group policy|terminal server client|internet explorer|outlook|media player|feeds|cache|onedrive|installagent|installagent/checkpoints)$
+/device/harddiskvolume1/.*/appdata/local/(microsoft|virtualstore|google|temp|temp/low)$
+/device/harddiskvolume1/.*/appdata/local/(google/chrome|iconcache.db)$
+/device/harddiskvolume1/.*/appdata/local/google/chrome/user data
+/device/harddiskvolume1/.*/appdata/roaming
+/device/harddiskvolume1/.*desktop\.ini
+/device/harddiskvolume1/programdata/usoshared/logs/updatesessionorchestration.*etl
+/device/harddiskvolume1/programdata/microsoft/crypto/systemkeys
+/device/harddiskvolume1/programdata/microsoft/crypto/rsa/machinekeys
+/device/harddiskvolume1/programdata/microsoft/windows/apprepository
+/device/harddiskvolume1/programdata/microsoft/windows/start menu/programs/.*(lnk|ini)
+/device/harddiskvolume1/programdata/microsoft/search/data/applications/windows/projects/systemindex/(propmap|secstore)
+/device/harddiskvolume1/programdata/microsoft/search/data/applications/windows/.*\.(jtx|jcp|jfm)
+/device/harddiskvolume1/(program files|programdata)/microsoft/windows defender/(scans|support)
+/device/harddiskvolume1/programdata/microsoft/windows/wer/temp/.*.tmp
+/device/harddiskvolume1/programdata/microsoft/group policy/history
+/device/harddiskvolume1/programdata/microsoft/provisioning
+/device/harddiskvolume1/programdata/microsoft/windows/systemdata
+/device/harddiskvolume1/programdata/microsoft/windows/start menu places
+/device/harddiskvolume1/programdata/microsoft/windows/caches
+/device/harddiskvolume1/programdata/microsoft/network/downloader/edb
+/device/harddiskvolume1/programdata/usoprivate/updatestore/updatestore
+/device/harddiskvolume1/programdata/adobe/reader/9.3
+/device/harddiskvolume1/(program files(| \(x86\))|.*)/google/chrome/application
+/device/harddiskvolume1/program files \(x86\)/notepad\+\+/plugins
+/device/harddiskvolume1/program files \(x86\)/google(|/update|/crashreports)$
+/device/harddiskvolume1/program files \(x86\)/windows defender(|/(mpoav|mpclient|msmplics)\.dll)
+/device/harddiskvolume1/program files \(x86\)/microsoft office/office15
+/device/harddiskvolume1/program files(| \(x86\))/common files
+/device/harddiskvolume1/program files/windowsapps/microsoft
+/device/harddiskvolume1/(program files|users/\w+)/internet explorer
+/device/harddiskvolume1/windows/installer/\{.*\}.*exe
+/device/harddiskvolume1/windows/\w+/resources.*pri$
+/device/harddiskvolume1/windows/systemapps/.*/assets/.*\.(png|ico|scale|targetsize)$
+/device/harddiskvolume1/windows/systemapps/.*/resources.*pri$
+/device/harddiskvolume1/windows/systemapps/microsoft\.windows\.
+/device/harddiskvolume1/windows/systemapps/microsoft\.aad\.brokerplugin_
+/device/harddiskvolume1/windows/systemapps/microsoft\.microsoftedge_
+/device/harddiskvolume1/windows/resources/themes/aero
+/device/harddiskvolume1/windows/system32/winmetadata/windows
+/device/harddiskvolume1/windows/system32/speech_onecore/common
+/device/harddiskvolume1/windows/system32/sleepstudy/.*etl
+/device/harddiskvolume1/windows/system32/grouppolicy/datastore/0/sysvol/systemia\.com/policies
+/device/harddiskvolume1/windows/system32/sru/sru.*log
+/device/harddiskvolume1/windows/system32/spool/v4dirs
+/device/harddiskvolume1/windows/system32/logfiles/wmi
+/device/harddiskvolume1/windows/system32/wbem/repository
+/device/harddiskvolume1/windows/system32/tasks/microsoft/windows/grouppolicy
+/device/harddiskvolume1/windows/installer
+/device/harddiskvolume1/windows/apppatch
+/device/harddiskvolume1/windows/cursors
+/device/harddiskvolume1/windows/media
+/device/harddiskvolume1/windows/appcompat/programs/amcache
+/device/harddiskvolume1/ncr/mantra/content/presentation_documents_content/images/.*\.(jpg|png)
+/device/harddiskvolume1/ncr/mantra/content/presentation_documents_content/themes/.*\.(thmx|xml)
+/device/harddiskvolume1/ncr/mantra/content/word_documents_content/images
+/device/harddiskvolume1/ncr/python_packages
+/device/harddiskvolume1/ncr/distributor/nodemanager
+/device/harddiskvolume1/ncr/kickoff/.*
+/device/harddiskvolume1/ncr/srvstart
+/device/harddiskvolume1/windows/logs/sih/sih
+/device/harddiskvolume1/windows/softwaredistribution/datastore/logs
+/device/harddiskvolume1/windows/shellexperiences
+/device/harddiskvolume1/program files/vmware/vmware tools
+/device/harddiskvolume1/program files/microsoft office/office15
+/device/harddiskvolume1/windows/logs/dosvc/dosvc
+/device/harddiskvolume1/windows/systemapps/shellexperiencehost
+/device/harddiskvolume1/windows/miracastview
+/device/harddiskvolume1/.*/(desktop|pictures|documents|videos|contacts|downloads|music|saved games|onedrive|accountpictures)$
+/device/mup/;lanmanredirector/;v:000000000
+/device/mup/.*systemia\.com/sysvol/systemia\.com/policies
+/device/harddiskvolume1/ncr/mantra
+/device/harddiskvolume1/documents/~wrd.*tmp$
+/device/harddiskvolume1/install/delta_4
+/device/harddiskvolume1/lwabeat
+/device/harddiskvolume1/windows/microsoft\.net/framework/v4\.0\.30319/
+/device/harddiskvolume1/programdata/microsoft/diagnosis
+/device/harddiskvolume1/users/dcoombes/appdata/local/temp/exchangeperflog_
+/device/harddiskvolume1/windows/assembly/gac_msil
+/device/harddiskvolume1/users/\w+/searches
