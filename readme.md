@@ -1,5 +1,5 @@
 # PPIN
-This repository is for the approach proposed in the paper *PPIN: Intrusion Detection and Investigation with Behavior Patterns on Provenance Graph*.
+This repository is for the approach proposed in the paper *PPIN*.
 
 - `./src` contains the implementation code of *PPIN*.
 - `./trained_model` contains pre-trained models of PPIN.
