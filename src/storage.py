@@ -1,5 +1,4 @@
 from .tools import *
-from .smirnov_grubbs import max_test_indices
 
 from sklearn.feature_extraction import FeatureHasher
 from torch_geometric.data import TemporalData
@@ -218,6 +217,9 @@ class Storage:
         for src in self.anomalous_table:
             for nt in [NODE_TYPE.FILE, NODE_TYPE.NET, NODE_TYPE.PROCESS]:
                 for dst in self.edge_cache[src][nt]:
+                    if nt==NODE_TYPE.PROCESS:
+                        if dst not in self.anomalous_table: 
+                            continue
                     for et in self.edge_cache[src][nt][dst]:
                         if et in self.EVENT_TYPE.REVERSE_EVENT:
                             srcs.append(dst)
@@ -359,7 +361,9 @@ class Storage:
         return pattern, nghs, childs
         
 
-    def pattern_rareness(self, beta):
+    def pattern_rareness(self):
+        beta = float(self.data_config['beta'])
+        eta = int(self.data_config['eta'])
         total_time_window_number = self.time_window_index
         candidate_table = {}
         all_pattern_count = 0
@@ -395,9 +399,12 @@ class Storage:
                     candidate_table[gnid] = {} # (gnid,pattern) pair
                 if len(gnid_score)==0:
                     continue
-                # AS_{p\perp \kappa}=PS_{\kappa}*RE_{p}*IS_{p\perp \kappa}
+                # AS_{p\perp \kappa}=PS_{\kappa}*RE_{p}^{eta}*IS_{p\perp \kappa}
                 # score for `process hit pattern`
-                candidate_table[gnid][pattern_id] = self.pattern_cache[pattern_id].PS * pattern.subject[gnid] * IS
+                As = self.pattern_cache[pattern_id].PS * IS
+                for _ in range(eta):
+                    As *= pattern.subject[gnid]
+                candidate_table[gnid][pattern_id] = As
 
         # AS_{p}
         AS_p = {}
@@ -410,9 +417,9 @@ class Storage:
             self.anomalous_table[p] = candidate_table[p] 
 
 
-    def cross_pattern_detection(self, beta):
-        self.pattern_rareness(beta)
-
+    def cross_pattern_detection(self):
+        self.pattern_rareness()
+        mz_threshold = float(self.data_config['mz_threshold'])
         # this part realizes the dual of the original paper
         # and generates pattern combinations with AS_c
         srcs, dsts, ets = self.get_anomaly_edges()
@@ -442,7 +449,15 @@ class Storage:
         if len(AS_c)<3: return
 
         # outlier detection
-        gids = max_test_indices(AS_c, alpha=1e-4)
+        # modified Z-score
+        data = np.array(AS_c)
+        median = np.median(data)
+        mad = np.median(np.abs(data - median))
+        mod_z_scores = 0.6745 * (data - median) / mad
+        
+        gids = np.where(np.abs(mod_z_scores) > mz_threshold)[0]
+
+        self.AS_c = AS_c
         self.gids = gids
         self.cs = cs
         self.srcs = srcs

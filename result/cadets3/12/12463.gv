@@ -1,0 +1,6 @@
+digraph 12463 {
+	graph [rankdir=LR]
+	12571 [label="/sbin/kldstat" color=black shape=oval]
+	12570 [label="20335	kldstat" color=black shape=box]
+	12571 -> 12570 [label=exec color=black]
+}

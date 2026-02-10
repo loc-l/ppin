@@ -1,24 +1,18 @@
 from src.config import *
-from src.storage_optc import *
+from src.storage import *
 from src.log_parser import *
 from src.model import MemAPT
 
-args = ARGS()
 host_id = sys.argv[1]
 data_config = json.load(open('config/data.json', 'r'))['optc']
-infeat = data_config['infeat']
 data_path = data_config['data_path']
 interval = data_config['interval']
 EVENT_TYPE = EVENT_TYPE_CONFIG(data_config['event_config_path'])
 time_type = int
 time_key = 'MSec'
-beta = data_config['beta']
-
 
 # model config
-args = ARGS()
-args.input_dim = data_config['infeat']
-args.output_dim = args.hidden_dim
+args = ARGS(data_config['infeat'])
 device = torch.device(int(sys.argv[2]))
 
 model = MemAPT(args, device)
@@ -28,7 +22,6 @@ criterion = torch.nn.MSELoss(reduction='none')
 model.eval()
 
 storage = Storage(data_config, test=True)
-
 label = load_label('optc')
 storage.label = label[int(host_id)]
 eventf = open(f'{data_path}/{host_id}.json', 'r')
@@ -64,5 +57,5 @@ storage.local_pattern_extraction(data, model, criterion, device)
 storage.clear_time_window()
 eventf.close()
 
-storage.cross_pattern_detection(beta)
-storage.alert_generation(root=f'results/optc/{host_id}')
+storage.cross_pattern_detection()
+storage.alert_generation(root=f'result/optc/{host_id}')

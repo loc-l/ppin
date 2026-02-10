@@ -1,0 +1,6 @@
+digraph 8478 {
+	graph [rankdir=LR]
+	9221 [label="6358	clean (deleted)" color=red shape=box]
+	9222 [label="/usr/share" color=black shape=oval]
+	9221 -> 9222 [label=open color=black]
+}

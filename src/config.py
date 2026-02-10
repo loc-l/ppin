@@ -39,14 +39,14 @@ class EVENT_TYPE_CONFIG:
     
 
 class ARGS:
-    def __init__(self):
+    def __init__(self, input_dim=None):
         self.device = 1
         self.lr = 0.002
         self.dropout = 0.1
         self.weight_decay = 0.0
-        self.input_dim = None
-        self.output_dim = None
+        self.input_dim = input_dim
         self.hidden_dim = 16
+        self.output_dim = 16
         self.num_centroids = 10
         self.cluster_heads = 3
         self.backward_period = 5

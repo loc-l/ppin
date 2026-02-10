@@ -99,7 +99,7 @@ ATTACK/0501
 132.197.158.98
 
 /device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll.docx
-/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx:zone.identifier:$d
+/device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx:zone.identifier:$data
 /device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx:zone.identifier
 /device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll (2).docx
 /device/harddiskvolume1/users/bantonio/appdata/local/microsoft/windows/inetcache/content.outlook/h777gzpt/payroll.docx:zone.identifier

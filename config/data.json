@@ -11,7 +11,9 @@
         "epoch" : 35,
         "infeat" : 128,
         "interval":900000000000,
-        "beta":0.3
+        "beta":0.3,
+        "mz_threshold":10,
+        "eta":1
     },
     "theia3":{
         "name": "theia3",
@@ -25,7 +27,9 @@
         "epoch" : 45,
         "infeat" : 256,
         "interval":900000000000,
-        "beta":0.3
+        "beta":0.3,
+        "mz_threshold":10,
+        "eta":1
     },
     "optc":{
         "name": "optc",
@@ -36,6 +40,8 @@
         "epoch" : 40,
         "infeat" : 64,
         "interval":900000000000,
-        "beta":0.3
+        "beta":0.3,
+        "mz_threshold":5,
+        "eta":2
     }
 }

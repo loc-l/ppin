@@ -1,0 +1,7 @@
+digraph 10125 {
+	graph [rankdir=LR]
+	10187 [label="/device/harddiskvolume1/windows/system32/sessionmsg.exe" color=black shape=oval]
+	10185 [label="884	sessionmsg.exe" color=black shape=box]
+	10187 -> 10185 [label=read color=black]
+	10185 -> 10185 [label=open color=black]
+}

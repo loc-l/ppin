@@ -1,3 +1,0 @@
-55282	ipfstat,
-/sbin/ipfstat,/etc/periodic/security/610.ipf6denied,
-

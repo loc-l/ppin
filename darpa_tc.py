@@ -3,21 +3,17 @@ from src.storage import *
 from src.log_parser import *
 from src.model import MemAPT
 
-args = ARGS()
+# data config
 data_name = sys.argv[1]
 data_config = json.load(open('config/data.json', 'r'))[data_name]
-infeat = data_config['infeat']
 data_path = data_config['data_path']
 interval = data_config['interval']
 EVENT_TYPE = EVENT_TYPE_CONFIG(data_config['event_config_path'])
 time_type = int
 time_key = 'MSec'
-beta = data_config['beta']
 
 # model config
-args = ARGS()
-args.input_dim = data_config['infeat']
-args.output_dim = args.hidden_dim
+args = ARGS(data_config['infeat'])
 device = torch.device(int(sys.argv[2]))
 
 model = MemAPT(args, device)
@@ -66,5 +62,5 @@ for day in data_config['detect_days']:
     storage.clear_time_window()
     eventf.close()
 
-    storage.cross_pattern_detection(beta)
+    storage.cross_pattern_detection()
     storage.alert_generation(root=f'result/{data_name}/{day}/')

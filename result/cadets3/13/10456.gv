@@ -1,0 +1,8 @@
+digraph 10456 {
+	graph [rankdir=LR]
+	10637 [label="/usr/local/libexec/ipop3d" color=black shape=oval]
+	10635 [label="39482	ipop3d" color=black shape=box]
+	10637 -> 10635 [label=exec color=black]
+	12522 [label="41297	ipop3d" color=black shape=box]
+	10637 -> 12522 [label=exec color=black]
+}

@@ -1,0 +1,6 @@
+digraph 647 {
+	graph [rankdir=LR]
+	651 [label="1604	VGAuthService.exe" color=black shape=box]
+	11840 [label="/device/harddiskvolume1/programdata/vmware/vmware vgauth/logfile.txt.0" color=black shape=oval]
+	651 -> 11840 [label=write color=black]
+}

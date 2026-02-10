@@ -1,0 +1,7 @@
+digraph 10155 {
+	graph [rankdir=LR]
+	10244 [label="/device/harddiskvolume1/windows/system32/tstheme.exe" color=black shape=oval]
+	10216 [label="5320	TSTheme.exe" color=black shape=box]
+	10244 -> 10216 [label=read color=black]
+	10216 -> 10216 [label=open color=black]
+}
